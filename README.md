@@ -43,6 +43,11 @@ npm pkg fix
 
 ### Passo 5: Publicar a biblioteca
 Finalmente, para publicar sua biblioteca, execute o seguinte comando:
+
+```
+npm publish
+```
+
 ![tela-npm-tutorial](https://github.com/beringui1611/lib-npm/assets/132324277/7cbbfe8c-8e3a-41b5-a154-f6dfddb06963)
 
 Após publicar sua biblioteca, outros desenvolvedores podem instalá-la e utilizá-la em seus projetos. Por exemplo:
